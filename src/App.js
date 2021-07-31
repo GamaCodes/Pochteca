@@ -1,13 +1,12 @@
-import logo from "./config.svg";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p className="App-link">PROXIMAMENTE</p>
-        <p>Sitio en construcción</p>
+        <img src="/poch_logo.svg" alt="logo" />
+        <p>En Mantenimiento</p>
+        <p className="App-link">... 2021 ...</p>
       </header>
     </div>
   );
